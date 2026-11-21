@@ -6,7 +6,7 @@
 
 # Sreekanth Valmiki
 
-**Full-Stack Software Developer | Backend Engineer | AI/RAG Application Developer**
+**Junior Forward Deployed Engineer | Full-Stack Software Developer | Backend Engineer | AI/RAG Application Developer** 
 
 Building production-oriented web applications, REST APIs, AI systems, and enterprise workflows.
 
